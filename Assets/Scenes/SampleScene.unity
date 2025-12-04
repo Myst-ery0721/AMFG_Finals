@@ -277,7 +277,7 @@ MonoBehaviour:
   maxPlayerLives: 3
   damageInvincibilityTime: 1
   gravity: -20
-  jumpVelocity: 15
+  jumpVelocity: 10
   terminalVelocity: -50
   horizontalSpeed: 5
   fireballSpeed: 10
@@ -519,6 +519,7 @@ MonoBehaviour:
   timerText: {fileID: 0}
   hpText: {fileID: 0}
   levelTime: 120
+  timeLeft: 0
 --- !u!114 &1220249986
 MonoBehaviour:
   m_ObjectHideFlags: 0
